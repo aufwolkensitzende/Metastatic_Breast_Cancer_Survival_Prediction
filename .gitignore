@@ -1,0 +1,15 @@
+# Data files
+*.csv
+*.xlsx
+data/METABRIC*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
